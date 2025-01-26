@@ -244,3 +244,63 @@ export const md_orange_A100 = '#FFD180';
 export const md_orange_A200 = '#FFAB40';
 export const md_orange_A400 = '#FF9100';
 export const md_orange_A700 = '#FF6D00';
+
+// Deep Orange
+export const md_deep_orange_50 = '#FBE9E7';
+export const md_deep_orange_100 = '#FFCCBC';
+export const md_deep_orange_200 = '#FFAB91';
+export const md_deep_orange_300 = '#FF8A65';
+export const md_deep_orange_400 = '#FF7043';
+export const md_deep_orange_500 = '#FF5722';
+export const md_deep_orange_600 = '#F4511E';
+export const md_deep_orange_700 = '#E64A19';
+export const md_deep_orange_800 = '#D84315';
+export const md_deep_orange_900 = '#BF360C';
+export const md_deep_orange_A100 = '#FF9E80';
+export const md_deep_orange_A200 = '#FF6E40';
+export const md_deep_orange_A400 = '#FF3D00';
+export const md_deep_orange_A700 = '#DD2C00';
+
+// Brown
+export const md_brown_50 = '#EFEBE9';
+export const md_brown_100 = '#D7CCC8';
+export const md_brown_200 = '#BCAAA4';
+export const md_brown_300 = '#A1887F';
+export const md_brown_400 = '#8D6E63';
+export const md_brown_500 = '#795548';
+export const md_brown_600 = '#6D4C41';
+export const md_brown_700 = '#5D4037';
+export const md_brown_800 = '#4E342E';
+export const md_brown_900 = '#3E2723';
+
+// Grey
+export const md_grey_50 = '#FAFAFA';
+export const md_grey_100 = '#F5F5F5';
+export const md_grey_200 = '#EEEEEE';
+export const md_grey_300 = '#E0E0E0';
+export const md_grey_400 = '#BDBDBD';
+export const md_grey_500 = '#9E9E9E';
+export const md_grey_600 = '#757575';
+export const md_grey_700 = '#616161';
+export const md_grey_800 = '#424242';
+export const md_grey_900 = '#212121';
+
+// Blue Grey
+export const md_blue_grey_50 = '#ECEFF1';
+export const md_blue_grey_100 = '#CFD8DC';
+export const md_blue_grey_200 = '#B0BBC5';
+export const md_blue_grey_300 = '#90A4AE';
+export const md_blue_grey_400 = '#78909C';
+export const md_blue_grey_500 = '#607D8B';
+export const md_blue_grey_600 = '#546E7A';
+export const md_blue_grey_700 = '#455A64';
+export const md_blue_grey_800 = '#37474F';
+export const md_blue_grey_900 = '#263238';
+
+// Black and White
+export const md_black_1000 = '#000000';
+export const md_white_1000 = '#FFFFFF';
+
+// Example of tint colors for light/dark themes:
+export const tintColorLight = '#0a7ea4';
+export const tintColorDark = '#fff';
